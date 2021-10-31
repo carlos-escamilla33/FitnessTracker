@@ -1,5 +1,6 @@
 # fitnesstrackr
 an API for our new fitness empire, FitnessTrac.kr, using node, express, and postgresql
+
 FRONTEND LINK : Frontend: https://fitnesstrackerfrontend.netlify.app/
 
 ## Getting Started
